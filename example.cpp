@@ -1,7 +1,7 @@
 #Include <iostream> // basic input output for c++
 #Include <windows.h> // use this if you are on windows just helps with beginer stuff
 
-
+// y0u most likely will use more header files then  i used.
   static bool func = false;
 
 void example(func) 
